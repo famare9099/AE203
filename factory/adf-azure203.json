@@ -1,0 +1,9 @@
+{
+	"name": "adf-azure203",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "437de35b-bcfb-4bdf-9c28-b5bf13d3aba0",
+		"tenantId": "539c611a-8032-457b-b371-a99182228eef"
+	}
+}
