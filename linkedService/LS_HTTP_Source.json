@@ -1,0 +1,16 @@
+{
+	"name": "LS_HTTP_Source",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/skp1963/dp203/blob/main/data/retail-org/",
+			"enableServerCertificateValidation": false,
+			"authenticationType": "Anonymous"
+		},
+		"connectVia": {
+			"referenceName": "IR-azure203",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
