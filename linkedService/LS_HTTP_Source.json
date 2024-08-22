@@ -7,10 +7,6 @@
 			"url": "https://github.com/skp1963/dp203/blob/main/data/retail-org/customers/customers.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
-		},
-		"connectVia": {
-			"referenceName": "IR-azure203",
-			"type": "IntegrationRuntimeReference"
 		}
 	}
 }
